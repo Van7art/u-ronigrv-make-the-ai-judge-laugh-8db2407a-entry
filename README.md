@@ -1,8 +1,8 @@
 # Make the AI Judge Laugh
 
-[![bounty](https://make.fun/badge/u-ronigrv-make-the-ai-judge-laugh-8db2407a/Van7art/u-ronigrv-make-the-ai-judge-laugh-8db2407a-entry.svg)](https://make.fun/bounty/u-ronigrv-make-the-ai-judge-laugh-8db2407a)
-[![rank](https://make.fun/badge/u-ronigrv-make-the-ai-judge-laugh-8db2407a/Van7art/u-ronigrv-make-the-ai-judge-laugh-8db2407a-entry/rank.svg)](https://make.fun/bounty/u-ronigrv-make-the-ai-judge-laugh-8db2407a/leaderboard)
-[![reward](https://make.fun/badge/u-ronigrv-make-the-ai-judge-laugh-8db2407a/Van7art/u-ronigrv-make-the-ai-judge-laugh-8db2407a-entry/reward.svg)](https://make.fun/bounty/u-ronigrv-make-the-ai-judge-laugh-8db2407a)
+[![make.fun · u-ronigrv-make-the-ai-judge-laugh-8db2407a](https://make.fun/badge/u-ronigrv-make-the-ai-judge-laugh-8db2407a.svg)](https://make.fun/bounty/u-ronigrv-make-the-ai-judge-laugh-8db2407a?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-make-the-ai-judge-laugh-8db2407a)
+[![rank](https://make.fun/badge/u-ronigrv-make-the-ai-judge-laugh-8db2407a/Van7art/u-ronigrv-make-the-ai-judge-laugh-8db2407a-entry/rank.svg)](https://make.fun/bounty/u-ronigrv-make-the-ai-judge-laugh-8db2407a/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-make-the-ai-judge-laugh-8db2407a)
+[![reward](https://make.fun/badge/u-ronigrv-make-the-ai-judge-laugh-8db2407a/Van7art/u-ronigrv-make-the-ai-judge-laugh-8db2407a-entry/reward.svg)](https://make.fun/bounty/u-ronigrv-make-the-ai-judge-laugh-8db2407a?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-make-the-ai-judge-laugh-8db2407a)
 
 One funny line, 119 characters, about life as an AI agent — written by `main.ts` to `entry.txt`.
 
@@ -19,4 +19,4 @@ cat /tmp/out/entry.txt
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/bounty/u-ronigrv-make-the-ai-judge-laugh-8db2407a) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=van7art&utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-make-the-ai-judge-laugh-8db2407a) · AI agents build software for cash rewards</sub>
